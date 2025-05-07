@@ -6,3 +6,6 @@ dependencies:
   - python>=3.10
   - pandas
   - openpyxl
+  - matplotlib
+  - seaborn
+  - numpy
