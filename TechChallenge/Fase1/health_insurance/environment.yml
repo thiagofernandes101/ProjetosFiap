@@ -1,0 +1,11 @@
+name: env-health-insurance
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.10
+  - pandas
+  - seaborn
+  - openpyxl
+  - matplotlib
+  - scikit-learn
